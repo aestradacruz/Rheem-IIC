@@ -1,0 +1,6 @@
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\bin\IICReport.dll.config
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\bin\IICReport.dll
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\bin\IICReport.pdb
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\obj\Release\IICReport.csproj.CoreCompileInputs.cache
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\obj\Release\IICReport.dll
+C:\Users\abel.estrada\Documents\Visual Studio 2017\Project\ICI\IICReport\obj\Release\IICReport.pdb

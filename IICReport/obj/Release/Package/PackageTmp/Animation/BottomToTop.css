@@ -1,0 +1,61 @@
+﻿.bottom-to-top {
+    -webkit-animation: bottomToTop 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: bottomToTop 2s; /* Firefox < 16 */
+    -ms-animation: bottomToTop 2s; /* Internet Explorer */
+    -o-animation: bottomToTop 2s; /* Opera < 12.1 */
+    animation: bottomToTop 2s;
+}
+
+@keyframes bottomToTop {
+    from {
+        margin-top: 260px;
+    }
+
+    to {
+        margin-top: 230px;
+    }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes bottomToTop {
+    from {
+        margin-top: 300px;
+    }
+
+    to {
+        margin-top: 230px;
+    }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes bottomToTop {
+    from {
+        margin-top: 300px;
+    }
+
+    to {
+        margin-top: 230px;
+    }
+}
+
+/* Internet Explorer */
+@-ms-keyframes bottomToTop {
+    from {
+        margin-top: 300px;
+    }
+
+    to {
+        margin-top: 230px;
+    }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes bottomToTop {
+    from {
+        margin-top: 300px;
+    }
+
+    to {
+        margin-top: 230px;
+    }
+}

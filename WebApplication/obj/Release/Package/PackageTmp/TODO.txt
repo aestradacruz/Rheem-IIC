@@ -1,0 +1,32 @@
+09/06/2019
+
+HECHO     -- Que baje la interfaz al seleccionar un zona. 
+
+HECHO     -- No mostrar todos los documentos. Folder tipo lista. 	
+
+HECHO     -- Panel con click.
+
+CANCELADO -- PDF tipo pop-up.
+
+HECHO     -- Interfaz de inicio. 
+
+09/20/2019
+
+HECHO     -- Mover la carpeta Documents del disco C al F.
+
+HECHO     -- Busqueda dentro de las carpetas.
+
+HECHO     -- Instrucciones en los videos. Como maximizar un video; como cerrar el modo pantalla completa. 
+
+09/24/2019
+
+HECHO     -- Ajustar tamaño de PDF icon.
+
+HECHO	  -- Ocultar secciones abiertas, al abrir una sección.
+
+
+10/01/2019
+
+PENDIENTE -- Agregar un SLIDER de imagenes al final del menú principal de carpetas.
+
+PENDIENTE -- Al abrir un PDF, al volver a la pagina principal, seleccionar el menu seleccionado por el usuario.  

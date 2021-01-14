@@ -1,0 +1,176 @@
+﻿@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../Font/Montserrat-Regular.ttf') format('truetype');
+}
+
+.montserrat-font {
+    font-family: 'Montserrat-Regular', sans-serif;
+}
+
+.project-navbar {
+    background-color: rgb(48, 48, 48)
+}
+
+.center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pdf-link{
+    cursor: pointer;
+    color:aquamarine;
+}
+
+.hyper-link{
+    display: block;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.float-button {
+    position: fixed;
+    right: 30px;
+    top: 500px;
+    transition: all 0.2s ease-in 0s;
+    cursor: pointer;
+}
+
+.float-button:hover {
+        right: 40px;
+}
+
+.text-block{
+    display:block;
+}
+
+.background-color-black {
+    background-color: #1A1A1A;
+}
+
+.search-button {
+    border-radius: 40px 40px;
+}
+
+.rounded-text-box {
+    text-transform: uppercase;
+    border-radius: 30px 30px;
+}
+
+
+.text-color-gray {
+    color: #787878;
+}
+
+
+.text-color-red {
+    color: red;
+}
+
+.text-color-white {
+    color: white;
+}
+
+/* MARGINS */
+.mar-top-0 {
+    margin-top: 0;
+}
+
+.mar-top-5 {
+    margin-top: 5px;
+}
+
+.mar-top-10 {
+    margin-top: 10px;
+}
+
+.mar-top-15 {
+    margin-top: 15px;
+}
+
+.mar-top-20 {
+    margin-top: 20px;
+}
+
+.mar-top-25 {
+    margin-top: 25px;
+}
+
+.mar-top-30 {
+    margin-top: 30px;
+}
+
+.mar-top-35 {
+    margin-top: 35px;
+}
+
+.mar-top-40 {
+    margin-top: 40px;
+}
+
+.mar-top-50 {
+    margin-top: 50px;
+}
+
+.mar-top-80 {
+    margin-top: 80px;
+}
+
+.mar-top-90 {
+    margin-top: 90px;
+}
+
+.mar-top-95 {
+    margin-top: 95px;
+}
+
+
+.mar-top-100 {
+    margin-top: 100px;
+}
+
+.mar-top-110 {
+    margin-top: 110px;
+}
+
+.mar-top-120 {
+    margin-top: 120px;
+}
+
+.mar-top-150 {
+    margin-top: 150px;
+}
+
+.mar-top-200 {
+    margin-top: 200px;
+}
+
+.mar-top-230 {
+    margin-top: 230px;
+}
+
+.pad-bot-50{
+    padding-bottom: 50px;
+
+}
+
+.link-panel {
+    margin: auto;
+    text-align: center;
+    /*
+    transition: background-color .10s ease-out;
+    -webkit-transition: background-color .10s ease-out;
+    -moz-transition: background-color .10s ease-out;
+    -o-transition: background-color .10s ease-out;
+    cursor: pointer;
+    transition: background-color .10s ease-out; */
+    transition: transform .8s;
+}
+
+    .link-panel:hover {
+        transform: scale(1.1);
+    }
